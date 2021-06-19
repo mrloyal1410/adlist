@@ -11,6 +11,7 @@ https://someonewhocares.org/hosts/
 not yet
 https://github.com/duckduckgo/tracker-radar
 https://exodus-privacy.eu.org/en/
+https://www.rethinkdns.com/configure
 
 
 
