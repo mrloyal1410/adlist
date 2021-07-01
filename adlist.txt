@@ -1,3 +1,10 @@
+ref
+https://github.com/StevenBlack/hosts
+https://github.com/EnergizedProtection/EnergizedHosts
+https://www.rethinkdns.com/configure
+
+
+
 already in other lists
 https://adaway.org/hosts.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=proxyautoconfig;showintro=0
@@ -11,7 +18,6 @@ https://someonewhocares.org/hosts/
 not yet
 https://github.com/duckduckgo/tracker-radar
 https://exodus-privacy.eu.org/en/
-https://www.rethinkdns.com/configure
 
 
 
@@ -49,5 +55,83 @@ https://blocklistproject.github.io/Lists/tiktok.txt
 https://blocklistproject.github.io/Lists/tracking.txt
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 https://urlhaus.abuse.ch/downloads/hostfile/
+https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
+https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/safesearch-not-supported
+https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/dating/domains
+https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/gambling/domains
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/dht-bootstrap-nodes
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/file-hosting
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-audio
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-video
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-clients
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-trackers
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-websites
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/usenet
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/warez
+https://raw.githubusercontent.com/tiuxo/hosts/master/porn
+https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts
+https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
+https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/zoom
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Dead/hosts
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
+https://joewein.net/dl/bl/dom-bl-base.txt
+https://joewein.net/dl/bl/dom-bl.txt
+https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/malware/domains
+https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/phishing/domains
+https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+https://azorult-tracker.net/api/list/domain?format=plain
+https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
+http://phishing.mailscanner.info/phishing.bad.sites.conf
+https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
+https://infosec.cert-pa.it/analyze/listdomains.txt
+https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
+https://rescure.fruxlabs.com/rescure_domain_blacklist.txt
+https://rescure.fruxlabs.com/malware/maze.txt
+https://rescure.fruxlabs.com/malware/ekans.txt
+https://rescure.fruxlabs.com/malware/wastedlocker.txt
+https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
+https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malicious_domains.txt
+https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malware_domains.txt
+https://rescure.fruxlabs.com/covid.txt
+https://hole.cert.pl/domains/domains.txt
+https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+https://badmojr.github.io/1Hosts/Pro/domains.txt
+https://badmojr.github.io/1Hosts/Xtra/domains.txt
+https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
+https://abpvn.com/android/abpvn.txt
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
+https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+https://raw.githubusercontent.com/paulgb/BarbBlock/master/blacklists/domain-list.txt
+https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
+https://stanev.org/abp/adblock_bg.txt
+http://sysctl.org/cameleon/hosts
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://easylist-downloads.adblockplus.org/easylistchina.txt
+https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter.txt
+https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
+https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
+https://raw.githubusercontent.com/tiuxo/hosts/master/ads
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi
 
 
